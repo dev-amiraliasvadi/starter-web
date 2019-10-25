@@ -2,9 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
+	amirali asvadi asvadi@am4ze.email
+	
 # THANKS
 
     <name>
